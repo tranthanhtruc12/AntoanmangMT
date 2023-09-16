@@ -1,0 +1,5 @@
+1 số chú thích
+Plain Text :  123456ABCD132536  // Văn bản ban đầu
+Cipher Text :  C0B7A8D05F3A829C // Văn bản sau khi mã hóa
+Gồm 2 quá trình mã hóa/ giải mã
+Mỗi quá trình thực hiện 16 vòng
